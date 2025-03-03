@@ -1,3 +1,4 @@
+![IMG_20250302_194800](https://github.com/user-attachments/assets/1eaa955f-1fdf-483f-9d70-7a5462a57af9)
 <p align="center">
   <img width="456" height="125" src="https://github.com/louis-e/arnis/blob/main/gui-src/images/logo.png?raw=true">
 </p>
